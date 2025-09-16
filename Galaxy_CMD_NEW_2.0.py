@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created by: Dr. Boaz Ron Zohar
-https://github
+https://github.com/BoazRonZohar/GalaxyCMD/blob/main/Galaxy_CMD_NEW_2.0.py
 Affiliation: Global Sky Forum / LCO Projects
 Date: September 2025
 
